@@ -11,9 +11,9 @@ excerpt: "About buzyomi's Mobile Aprication(iphone)"
 
 ## Mobile Aprication
 
-### [Title Call（iPhone）](/title_call/index "title_call")
+### [Title Call（iPhone）](/title_call/index.html "title_call")
 
-### [![title_call](/assets/title_call/Icon-App-83.5x83.5@2x.png)](/title_call/index "title_call apri for iphone")
+### [![title_call](/assets/title_call/Icon-App-83.5x83.5@2x.png)](/title_call/index.html "title_call apri for iphone")
 
 Title Call: The app calls the title of the web page
 
