@@ -11,7 +11,7 @@ excerpt: "About buzyomi's Mobile Aprication(iphone)"
 
 ## Mobile Aprication
 
-### [Title Call（iPhone）](/title_call/ "title_call")
+### [Title Call（iPhone）](/hp/title_call/ "title_call")
 
 ### [![title_call](/assets/title_call/Icon-App-83.5x83.5@2x.png)](/title_call/ "title_call apri for iphone")
 
