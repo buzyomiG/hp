@@ -8,6 +8,6 @@
 layout: home
 ---
 
-# buzyomi's Website
+# buzyomi's HomePage for Mobile Aprication
 
 

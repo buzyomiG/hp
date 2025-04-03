@@ -8,14 +8,17 @@ excerpt: "About Title Call - Mobile Aprication(iphone)"
 aside: false
 ---
 
+<!-- 
+[link-1]: /hp/title_call/
+[link-2]: /hp/privacy_policy/
+-->
+[link-1]: /title_call/
+[link-2]: /privacy_policy/
+
 ## iPhone
-
-### [Title Call](/title_call "title_call")
-
-### [![title_call](/assets/title_call/Icon-App-83.5x83.5@2x.png)](/title_call "title_call apri for iphone")
-
+### [Title Call（iPhone）][link-1]
+### [![title_call](/assets/title_call/Icon-App-83.5x83.5@2x.png)][link-1]
 Title Call: The app calls the title of the web page
-
 
 * Store
 
@@ -23,7 +26,7 @@ Comming soon
 
 * Privacy Policy
 
-{% include button.html text="Privacy Policy" link="/title_call/privacy_policy" %}
+{% include button.html text="Privacy Policy" link="[link-2]" %}
 
 * Contact
 
