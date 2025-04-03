@@ -9,12 +9,11 @@ aside: false
 ---
 
 <!-- 
-[link-1]: /hp/title_call/
-[link-2]: /hp/privacy_policy/
--->
 [link-1]: /title_call/
 [link-2]: /privacy_policy/
-
+-->
+[link-1]: /hp/title_call/
+[link-2]: /hp/privacy_policy/
 ## iPhone
 ### [Title Call（iPhone）][link-1]
 ### [![title_call](/assets/title_call/Icon-App-83.5x83.5@2x.png)][link-1]
