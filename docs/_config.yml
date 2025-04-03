@@ -1,4 +1,4 @@
-title:   "buzyomi's website"
+title:   "buzyomi's HomePage"
 author:
   name: buzyomi
   email: buzyomi@gmail.com
@@ -27,7 +27,7 @@ minima:
   #     * solarized-light    Light variant of solarized color scheme.
   #     * solarized-dark     Dark variant of solarized color scheme.
   #     * solarized          Adaptive skin for solarized color scheme skins.
-  skin: classic
+  skin: solarized-light
 
   # Specific pages for site navigation.
   #   If you wish to link only specific pages in the site-navigation, use this and list
@@ -54,7 +54,7 @@ minima:
   social_links:
     - title: Minima Theme repository at GitHub
       icon: github
-      url: "https://github.com/jekyll/minima"
-    - title: Jekyll at X (formerly Twitter)
-      icon: x-twitter
-      url: "https://x.com/jekyllrb"
+      url: "https://buzyomig.github.io/hp/"
+  #     - title: Jekyll at X (formerly Twitter)
+  #       icon: x-twitter
+  #       url: "https://x.com/jekyllrb"
