@@ -25,9 +25,14 @@ Comming soon
 
 * Privacy Policy
 
-{% include button.html text="Privacy Policy" link="/hp/privacy_policy" %}
+{% include button.html text="Privacy Policy(English)" link="/hp/privacy_policy" %}
 <!-- 
-{% include button.html text="Privacy Policy" link="/privacy_policy" %}
+{% include button.html text="Privacy Policy(English)" link="/privacy_policy" %}
+-->
+
+{% include button.html text="Privacy Policy(日本語)" link="/hp/privacy_policy_jp" %}
+<!-- 
+{% include button.html text="Privacy Policy(日本語)" link="/privacy_policy_jp" %}
 -->
 
 * Contact
