@@ -8,33 +8,31 @@ excerpt: "About Title Call - Mobile Aprication(iphone)"
 aside: false
 ---
 
-<!-- 
+
 [link-1]: /title_call/
 [link-2]: /privacy_policy/
--->
-[link-1]: /hp/title_call
+<!-- [link-1]: /hp/title_call
 [link-2]: /hp/privacy_policy
-## iPhone
+-->
+# iPhone
 ### [Title Call（iPhone）][link-1]
 ### [![title_call](/assets/title_call/Icon-App-83.5x83.5@2x.png)][link-1]
 Title Call: The app calls the title of the web page
 
 * Store
 
-Comming soon
+ Comming soon
 
 * Privacy Policy
 
-{% include button.html text="Privacy Policy(English)" link="/hp/privacy_policy" %}
-<!-- 
-{% include button.html text="Privacy Policy(English)" link="/privacy_policy" %}
--->
+ {% include button.html text="Privacy Policy(English)" link="/privacy_policy" %}
+ {% include button.html text="Privacy Policy(日本語)" link="/privacy_policy_jp" %}
 
-{% include button.html text="Privacy Policy(日本語)" link="/hp/privacy_policy_jp" %}
 <!-- 
-{% include button.html text="Privacy Policy(日本語)" link="/privacy_policy_jp" %}
+{% include button.html text="Privacy Policy(English)" link="/hp/privacy_policy" %}
+{% include button.html text="Privacy Policy(日本語)" link="/hp/privacy_policy_jp" %}
 -->
 
 * Contact
 
-{% include button.html text="Contact" link="https://docs.google.com/forms/d/e/1FAIpQLSfaZ5qKuOGAQHOpAmhSkIoG072_GwZ6Q1v5RXjfgvmbY-ptBA/viewform?usp=pp_url" %}
+ {% include button.html text="Contact" link="https://docs.google.com/forms/d/e/1FAIpQLSfaZ5qKuOGAQHOpAmhSkIoG072_GwZ6Q1v5RXjfgvmbY-ptBA/viewform?usp=pp_url" %}

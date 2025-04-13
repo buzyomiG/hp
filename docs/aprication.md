@@ -8,11 +8,11 @@ feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "About buzyomi's Mobile Aprication(iphone)"
 ---
 
-<!-- 
-[link-1]: /title_call/
--->
-[link-1]: /hp/title_call
 
+[link-1]: /title_call/
+<!-- 
+[link-1]: /hp/title_call
+-->
 ## Mobile Aprication
 
 ## [Title Call（iPhone）][link-1]
