@@ -9,8 +9,8 @@ aside: false
 ---
 
 
-[link-1]: /title_call/
-[link-2]: /privacy_policy/
+[link-1]: /title_call
+[link-2]: /privacy_policy
 <!-- [link-1]: /hp/title_call
 [link-2]: /hp/privacy_policy
 -->
@@ -35,4 +35,5 @@ Title Call: The app calls the title of the web page
 
 * Contact
 
- {% include button.html text="Contact" link="https://docs.google.com/forms/d/e/1FAIpQLSfaZ5qKuOGAQHOpAmhSkIoG072_GwZ6Q1v5RXjfgvmbY-ptBA/viewform?usp=pp_url" %}
+ {% include button.html text="Contact(English)" link="https://forms.gle/TQvBXSpwTmCqGB5H7" %}
+ {% include button.html text="Contact(日本語)" link="https://forms.gle/EdFc93ttnokEP3GSA" %}

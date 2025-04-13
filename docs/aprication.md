@@ -9,7 +9,7 @@ excerpt: "About buzyomi's Mobile Aprication(iphone)"
 ---
 
 
-[link-1]: /title_call/
+[link-1]: /title_call
 <!-- 
 [link-1]: /hp/title_call
 -->
