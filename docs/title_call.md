@@ -8,32 +8,34 @@ excerpt: "About Title Call - Mobile Aprication(iphone)"
 aside: false
 ---
 
+[link-0]: /
+[link-1]: /about_titlecall_i_en
+[link-2]: /about_titlecall_i_jp
+[link-3]: https://apple.co/4jAiQKn
 
-[link-1]: /title_call
-[link-2]: /privacy_policy
-<!-- [link-1]: /hp/title_call
-[link-2]: /hp/privacy_policy
--->
 # iPhone
-### [Title Call（iPhone）][link-1]
-### [![title_call](/assets/title_call/Icon-App-83.5x83.5@2x.png)][link-1]
 Title Call: The app calls the title of the web page
 
-* Store
+###  About Title Call
+ [About Title Call（English）][link-1]
+ 
+ [タイトルコールについて（日本語）][link-2]
 
- Comming soon
+###  Store
+### [![To Store](/assets/title_call/qr-code.png)][link-3]
 
-* Privacy Policy
+###  Privacy Policy
 
  {% include button.html text="Privacy Policy(English)" link="/privacy_policy" %}
  {% include button.html text="Privacy Policy(日本語)" link="/privacy_policy_jp" %}
 
-<!-- 
-{% include button.html text="Privacy Policy(English)" link="/hp/privacy_policy" %}
-{% include button.html text="Privacy Policy(日本語)" link="/hp/privacy_policy_jp" %}
--->
+###  Contact　Us
 
-* Contact
+ {% include button.html text="Contact Us(English)" link="https://forms.gle/TQvBXSpwTmCqGB5H7" %}
+ {% include button.html text="お問い合わせ(日本語)" link="https://forms.gle/EdFc93ttnokEP3GSA" %}
+ 
+ 
+###  [Releas Note][link-0]
+2025-04-16　Ver.1.0.0 First Release 
 
- {% include button.html text="Contact(English)" link="https://forms.gle/TQvBXSpwTmCqGB5H7" %}
- {% include button.html text="Contact(日本語)" link="https://forms.gle/EdFc93ttnokEP3GSA" %}
+2025-04-17　Ver.1.0.1 Release
