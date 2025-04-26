@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "TitleCall(iphone)Ver.1.0.3 Release"
+title: "TitleCall(iphone)Ver.1.0.4 Release"
 categories: title_call(iphone)
 modified_date: 2025-04-26
 ---
 
 [link-3]: https://apple.co/4jAiQKn
 
-## Title Call aprication(iPhone) Ver.1.0.3 Release
+## Title Call aprication(iPhone) Ver.1.0.4 Release
 
 ### [![To Store](/assets/title_call/qr-code.png)][link-3]
 
@@ -15,8 +15,9 @@ modified_date: 2025-04-26
 
 Fixed a minor bug.
 
-・Corrected the type of banner ads.
+・Fixed a bug in forced updates.
 
 軽微なバグを修正しました。
 
-・バナー広告の種別を修正
+・強制アップデートのバグ修正。
+
