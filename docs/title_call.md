@@ -36,6 +36,8 @@ Title Call: The app calls the title of the web page
  
  
 ###  [Releas Note][link-0]
+2025-04-26 Ver.1.0.4 Release
+
 2025-04-25 Ver.1.0.3 Release
 
 2025-04-19 Ver.1.0.2 Release
