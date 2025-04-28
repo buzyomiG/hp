@@ -48,4 +48,4 @@ Title Call: The app calls the title of the web page
 
 [2025-04-16 Ver.1.0.0 初リリース]({% post_url 2025-04-16-title_call(iphone)_First_jp %})
 
-[2025-04-16 Ver.1.0.0 First Release]({% post_url 2025/04/2025-04-16-title_call(iphone)_First_en %})
+[2025-04-16 Ver.1.0.0 First Release]({% post_url 2025-04-16-title_call(iphone)_First_en %})
