@@ -2,7 +2,7 @@
 layout: post
 title: "裏話：(iphone)Ver.1.0.4 Release 2"
 categories: iPhone開発
-#modified_date: 2025-04-29
+modified_date: 2025-05-11
 ---
 
 [link-3]: https://apple.co/4jAiQKn
@@ -30,3 +30,15 @@ admobを見たところ、以下が。
 だそうです。
 
 解除の連絡はしてくれるのでしょうか。
+
+### admob広告の制限解除
+
+2025-05-11 追記
+
+制限の開始：2025/4/30
+
+制限の解除に気づいたのは、5/8
+
+実際の解除はもっと前かもしれません。
+
+予想通り、解除の通知はありませんでした。
