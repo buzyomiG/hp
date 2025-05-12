@@ -12,6 +12,8 @@ aside: false
 [link-1]: /about_titlecall_i_en
 [link-2]: /about_titlecall_i_jp
 [link-3]: https://apple.co/4jAiQKn
+[link-4]: /about_titlecall_i_es
+[link-5]: /about_titlecall_i_zhTW
 
 # iPhone
 Title Call: The app calls the title of the web page
@@ -21,19 +23,26 @@ Title Call: The app calls the title of the web page
  
  [タイトルコールについて（日本語）][link-2]
 
+ [Acerca de Título de llamada（español）][link-4]
+ 
+ [關於標題呼叫（繁體中文）][link-5]
+
 ###  Store
 ### [![To Store](/assets/title_call/qr-code.png)][link-3]
 
 ###  Privacy Policy
 
  {% include button.html text="Privacy Policy(English)" link="/privacy_policy" %}
- {% include button.html text="Privacy Policy(日本語)" link="/privacy_policy_jp" %}
+ {% include button.html text="プライバシーポリシー(日本語)" link="/privacy_policy_jp" %}
+ {% include button.html text="Política de Privacidady(español)" link="/privacy_policy_es" %}
+ {% include button.html text="隱私權政策(繁體中文)" link="/privacy_policy_zhTW" %}
 
 ###  Contact　Us
 
  {% include button.html text="Contact Us(English)" link="https://forms.gle/TQvBXSpwTmCqGB5H7" %}
  {% include button.html text="お問い合わせ(日本語)" link="https://forms.gle/EdFc93ttnokEP3GSA" %}
- 
+ {% include button.html text="Comentarios de los clientes(español)" link="https://forms.gle/j1dA3pvAHgf6GEcA6" %}
+ {% include button.html text="客戶回饋(繁體中文)" link="https://forms.gle/tqFCtJRXTRfBPFEc6" %}
  
 ###  [Releas Note][link-0]
 
