@@ -6,6 +6,7 @@ feature_image: "https://picsum.photos/2560/600?image=873"
 layout: page
 excerpt: "Privacy Policy in Title Call -  Mobile Aprication(iphone)"
 aside: false
+permalink: privacy_policy_zhTW/
 ---
 
 **隱私權政策**
