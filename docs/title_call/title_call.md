@@ -6,6 +6,7 @@ feature_image: "https://picsum.photos/2560/600?image=873"
 layout: page
 excerpt: "About Title Call - Mobile Aprication(iphone)"
 aside: false
+permalink: title_call/
 ---
 
 [link-0]: /
