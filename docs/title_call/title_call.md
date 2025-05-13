@@ -47,6 +47,9 @@ Title Call: The app calls the title of the web page
  
 ###  [Releas Note][link-0]
 
+[2025-05-12 Ver.1.0.5 Release]({% post_url 2025-05-12-title_call(iphone)_1.0.5 %})
+
+
 [2025-04-26 Ver.1.0.4 Release]({% post_url 2025-04-26-title_call(iphone)_1.0.4_en %})
 
 [2025-04-25 Ver.1.0.3 Release]({% post_url 2025-04-25-title_call(iphone)_1.0.3_en %})
