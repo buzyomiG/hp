@@ -30,4 +30,4 @@ The title to be read is the one set for that web page.
 
 Please note that the voice read out may differ from what is expected.
 
-Password required sites such as banks are not supported.
+~~Password required sites such as banks are not supported.~~

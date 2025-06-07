@@ -29,4 +29,4 @@ El título que se lee en voz alta es el que está configurado para esa página w
 
 Ten en cuenta que la voz leída puede diferir de lo esperado.
 
-No se admiten sitios que requieran contraseña, como los bancos.
+~~No se admiten sitios que requieran contraseña, como los bancos.~~
