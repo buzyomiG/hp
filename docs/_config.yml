@@ -40,6 +40,8 @@ minima:
   # Set to `true` to show excerpts on the homepage.
   show_excerpts: false
 
+  google_analytics: G-7DWLPH4F8W
+  
   # Minima date format.
   #   The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
   #   Refer to https://shopify.github.io/liquid/filters/date/ for valid values.
