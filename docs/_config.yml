@@ -1,7 +1,7 @@
 title:   "Space yomi's HomePage"
 author:
   name: スペース　よみ
-  email: buzyomi@gmail.com
+  email: support@buzyomi.com
 
 #description: >
 #  Write an awesome description for your new site here. You can edit this line
@@ -35,7 +35,7 @@ minima:
   #   should be rendered.
   nav_pages:
     - aprication.md
-  #  - about.md
+    - houjinnka.md
 
   # Set to `true` to show excerpts on the homepage.
   show_excerpts: false
