@@ -3,6 +3,8 @@ author:
   name: スペース　よみ
   email: support@buzyomi.com
 
+google_analytics: G-7DWLPH4F8W
+
 #description: >
 #  Write an awesome description for your new site here. You can edit this line
 #  in _config.yml. It will appear in your document head meta (for Google search
@@ -39,8 +41,6 @@ minima:
 
   # Set to `true` to show excerpts on the homepage.
   show_excerpts: false
-
-  google_analytics: "G-7DWLPH4F8W"
   
   # Minima date format.
   #   The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
