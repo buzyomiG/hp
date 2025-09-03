@@ -16,7 +16,7 @@
   font-weight: 300;
   letter-spacing: -1px;
   margin-bottom: 0;
-  float: left;
+  /*float: left;*/
 
   @include media-query($on-palm) {
     padding-right: 45px;
@@ -27,7 +27,12 @@
     color: $site-title-color;
   }
 }
-
+.site-logo {/* add 202509 */
+  height: 30px; /* ロゴの高さ */
+  margin-right: 10px; /* タイトルとの間隔 */
+  vertical-align: middle; /* タイトルの位置に合わせる */
+  background-color: $background-color;
+}
 .site-nav {
   position: absolute;
   top: 9px;

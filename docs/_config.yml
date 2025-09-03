@@ -20,6 +20,10 @@ sass:
   quiet_deps: true
   silence_deprecations: [import]
 
+
+logo: "/assets/logos/icon@500sic.png" # Site logo, also used in jekyll-seo-tag
+
+
 minima:
   # Minima skin selection. Available skins are:
   #   Available skins:
