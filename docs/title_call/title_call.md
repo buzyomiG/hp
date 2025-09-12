@@ -29,7 +29,7 @@ Title Call: The app calls the title of the web page
  [關於標題呼叫（繁體中文）][link-5]
 
 ###  Store
-### [![To Store](/assets/title_call/qr-code.png)][link-3]
+### [![To Store](/assets/title_call/Ver2.1.1_300px.png)][link-3]
 
 ###  Privacy Policy
 
@@ -47,10 +47,13 @@ Title Call: The app calls the title of the web page
  
 ###  [Releas Note][link-0]
 
+[2025-09-08 Ver.2.1.1 Release]({% post_url 2025-09-08-title_call(iphone)_2.1.1 %})
+
+[2025-07-09 Ver.2.1.0 Release]({% post_url 2025-07-09-title_call(iphone)_2.1.0 %})
+
 [2025-06-07 Ver.2.0.0 Release]({% post_url 2025-06-07-title_call(iphone)_2.0.0 %})
 
 [2025-05-12 Ver.1.0.5 Release]({% post_url 2025-05-12-title_call(iphone)_1.0.5 %})
-
 
 [2025-04-26 Ver.1.0.4 Release]({% post_url 2025-04-26-title_call(iphone)_1.0.4_en %})
 
@@ -59,7 +62,6 @@ Title Call: The app calls the title of the web page
 [2025-04-19 Ver.1.0.2 Release]({% post_url 2025-04-19-title_call(iphone)_1.0.2_en %})
 
 [2025-04-17 Ver.1.0.1 Release]({% post_url 2025-04-17-title_call(iphone)_1.0.1_en %})
-
 
 [2025-04-16 Ver.1.0.0 初リリース]({% post_url 2025-04-16-title_call(iphone)_First_jp %})
 
