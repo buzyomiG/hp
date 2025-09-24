@@ -15,7 +15,7 @@ excerpt: "About spaceyomi's Mobile Aprication(iphone)"
 -->
 ## Mobile Aprication
 
-## [Title Call（iPhone）][link-1]
+## [Title Call][link-1]
 ### [![title_call](/assets/title_call/Ver2.1.1_300px.png)][link-1]
 Title Call: The app calls the title of the web page
 

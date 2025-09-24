@@ -16,7 +16,8 @@ permalink: title_call/
 [link-4]: /about_titlecall_i_es
 [link-5]: /about_titlecall_i_zhTW
 
-# iPhone
+# titlecall
+
 Title Call: The app calls the title of the web page
 
 ###  About Title Call
@@ -27,9 +28,6 @@ Title Call: The app calls the title of the web page
  [Acerca de Título de llamada（español）][link-4]
  
  [關於標題呼叫（繁體中文）][link-5]
-
-###  Store
-### [![To Store](/assets/title_call/Ver2.1.1_300px.png)][link-3]
 
 ###  Privacy Policy
 
@@ -44,7 +42,13 @@ Title Call: The app calls the title of the web page
  {% include button.html text="お問い合わせ(日本語)" link="https://forms.gle/EdFc93ttnokEP3GSA" %}
  {% include button.html text="Comentarios de los clientes(español)" link="https://forms.gle/j1dA3pvAHgf6GEcA6" %}
  {% include button.html text="客戶回饋(繁體中文)" link="https://forms.gle/tqFCtJRXTRfBPFEc6" %}
- 
+
+
+# iPhone
+
+###  Store
+### [![To Store](/assets/title_call/Ver2.1.1_300px.png)][link-3]
+
 ###  [Releas Note][link-0]
 
 [2025-09-08 Ver.2.1.1 Release]({% post_url 2025-09-08-title_call(iphone)_2.1.1 %})
@@ -66,3 +70,12 @@ Title Call: The app calls the title of the web page
 [2025-04-16 Ver.1.0.0 初リリース]({% post_url 2025-04-16-title_call(iphone)_First_jp %})
 
 [2025-04-16 Ver.1.0.0 First Release]({% post_url 2025-04-16-title_call(iphone)_First_en %})
+
+
+# android
+
+###  Store
+### Comming soon
+
+###  Comming soon
+
