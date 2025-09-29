@@ -15,6 +15,7 @@ permalink: title_call/
 [link-3]: https://apple.co/4jAiQKn
 [link-4]: /about_titlecall_i_es
 [link-5]: /about_titlecall_i_zhTW
+[link-6]: https://play.google.com/store/apps/details?id=com.spaceyomi.titlecall
 
 # titlecall
 
@@ -71,11 +72,16 @@ Title Call: The app calls the title of the web page
 
 [2025-04-16 Ver.1.0.0 First Release]({% post_url 2025-04-16-title_call(iphone)_First_en %})
 
+---
 
 # android
 
 ###  Store
-### Comming soon
+### [![To Store](/assets/title_call/Ver2.1.1_300px.png)][link-6]
 
-###  Comming soon
+###  [Releas Note][link-0]
 
+[2025-09-29 Ver.1.0.0 Android titlecall初リリース]({% post_url 2025-09-29-title_call(Android)_First_jp %})
+
+
+[2025-09-29 Ver.1.0.0 Android First Release]({% post_url 2025-09-29-title_call(Android)_First_en %})
