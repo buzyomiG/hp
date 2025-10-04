@@ -3,7 +3,9 @@ author:
   name: スペース　よみ
   email: info@spaceyomi.com
 
-google_analytics: G-7DWLPH4F8W
+# google_analytics: G-7DWLPH4F8W #buzyomi@google.com
+
+google_analytics: G-151YKBLRJ5 #info@spaceyomi.com
 
 #description: >
 #  Write an awesome description for your new site here. You can edit this line
