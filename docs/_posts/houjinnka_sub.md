@@ -29,25 +29,11 @@
 
 #### [屋号名義で銀行口座開設]({% post_url 2025-08-04-houjinnka_ura02 %})
 
-#### [D-U-N-S番号の取得（発番待ち）←現在ここ]({% post_url 2025-08-06-houjinnka_ura01 %})
+#### [D-U-N-S番号の取得（発番完了）]({% post_url 2025-08-06-houjinnka_ura01 %})
 
+#### [Google Play　法人化]({% post_url 2025-10-10-houjinnka_ura01 %})
 
-### Google Play　法人化（対応予定）
-
-#### Google Play Developer 申請（対応予定）
-
-#### Googleお支払いプロフィールを個人→組織へ変更（対応予定）
-
-
-
-### Apple Developer Program　法人化（対応予定）
-
-#### Apple Developer Program 組織への移行申請（対応予定）
-
-#### App Store Connect でビジネス情報の更新（対応予定）
-
-#### Appleにデベロッパ名の変更依頼（対応予定）
-
+#### [Apple Developer Program　法人化]({% post_url 2025-10-11-houjinnka_ura01 %})
 
 
 ### 参考リンク
