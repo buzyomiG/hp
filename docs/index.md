@@ -10,6 +10,6 @@ layout: home
 
 ---
 
-Space yomi's HomePage
+**<span style="font-size:200%;">Space yomi's HomePage</span>**
 
 ---
