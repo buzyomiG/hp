@@ -10,6 +10,6 @@ layout: home
 
 ---
 
-# Space yomi's HomePage
+Space yomi's HomePage
 
 ---
