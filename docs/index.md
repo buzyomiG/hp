@@ -7,7 +7,6 @@
 #
 
 layout: home
-aside: true
 
 ---
 
