@@ -1,17 +1,17 @@
 ---
 title: プライバシーポリシー
 feature_text: |
-      Privacy Policy in Title Call -  Mobile Aprication
+      Privacy Policy in Title Call Pro -  Mobile Aprication
 feature_image: "https://picsum.photos/2560/600?image=873"
 layout: page
-excerpt: "Privacy Policy in Title Call -  Mobile Aprication(iphone)"
+excerpt: "Privacy Policy in Title Call Pro -  Mobile Aprication(iphone)"
 aside: false
-permalink: privacy_policy_jp/
+permalink: privacy_policy_jp_pro/
 ---
 
 **プライバシーポリシー**
 
-プライバシーポリシーは、タイトルコール（以下「サービスプロバイダー」といいます）が無料サービスとして提供するモバイル端末向けアプリ（以下「本アプリケーション」といいます）に適用されます。本サービスは「現状のまま」ご利用いただくことを意図しています。
+プライバシーポリシーは、タイトルコール Pro （以下「サービスプロバイダー」といいます）が無料サービスとして提供するモバイル端末向けアプリ（以下「本アプリケーション」といいます）に適用されます。本サービスは「現状のまま」ご利用いただくことを意図しています。
 
 **情報の収集と利用**
 
@@ -41,7 +41,6 @@ permalink: privacy_policy_jp/
 本アプリケーションは、データの取り扱いについて独自のプライバシーポリシーを有するサードパーティのサービスを利用しています。本アプリケーションが利用するサードパーティサービスプロバイダーのプライバシーポリシーへのリンクは以下をご覧ください。
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 
 サービスプロバイダーは、ユーザー提供情報および自動収集情報を開示する場合があります。
 

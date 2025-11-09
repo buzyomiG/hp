@@ -1,17 +1,17 @@
 ---
 title: Privacy Policy
 feature_text: |
-      Privacy Policy in Title Call -  Mobile Aprication
+      Privacy Policy in Title Call Pro -  Mobile Aprication
 feature_image: "https://picsum.photos/2560/600?image=873"
 layout: page
-excerpt: "Privacy Policy in Title Call -  Mobile Aprication(iphone)"
+excerpt: "Privacy Policy in Title Call Pro -  Mobile Aprication(iphone)"
 aside: false
-permalink: privacy_policy/
+permalink: privacy_policy_pro/
 ---
 
 **Privacy Policy**
 
-This privacy policy applies to the Title Call app (hereby referred to as "Application") for mobile devices that was created by (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This privacy policy applies to the Title Call Pro app (hereby referred to as "Application") for mobile devices that was created by (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
@@ -41,7 +41,7 @@ Only aggregated, anonymized data is periodically transmitted to external service
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 

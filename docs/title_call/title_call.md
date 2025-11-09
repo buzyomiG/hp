@@ -17,7 +17,7 @@ permalink: title_call/
 [link-5]: /about_titlecall_i_zhTW
 [link-6]: https://play.google.com/store/apps/details?id=com.spaceyomi.titlecall
 
-# titlecall
+# Title Call
 
 Title Call: The app calls the title of the web page
 

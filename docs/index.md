@@ -7,9 +7,10 @@
 #
 
 layout: home
+aside: true
 
 ---
 
-Space yomi's HomePage for Mobile Aprication
+# Space yomi's HomePage
 
 ---

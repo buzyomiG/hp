@@ -1,17 +1,17 @@
 ---
 title: 隱私權政策
 feature_text: |
-      Privacy Policy in Title Call -  Mobile Aprication
+      Privacy Policy in Title Call Pro -  Mobile Aprication
 feature_image: "https://picsum.photos/2560/600?image=873"
 layout: page
-excerpt: "Privacy Policy in Title Call -  Mobile Aprication(iphone)"
+excerpt: "Privacy Policy in Title Call Pro -  Mobile Aprication(iphone)"
 aside: false
-permalink: privacy_policy_zhTW/
+permalink: privacy_policy_zhTW_pro/
 ---
 
 **隱私權政策**
 
-本隱私權政策適用於由（以下簡稱「服務提供者」）為行動裝置開發的 Title Call 應用程式（以下簡稱「應用程式」），作為免費服務提供。本服務旨在「按原樣」使用。
+本隱私權政策適用於由（以下簡稱「服務提供者」）為行動裝置開發的 標題呼叫 Pro 應用程式（以下簡稱「應用程式」），作為免費服務提供。本服務旨在「按原樣」使用。
 
 **資訊收集與使用**
 
@@ -41,7 +41,6 @@ permalink: privacy_policy_zhTW/
 請注意，應用程式使用了具有自己隱私權政策的第三方服務。以下是應用程式使用的第三方服務提供者的隱私權政策連結：
 
 * [Google Play Services](https://www.google.com/policies/privacy/)
-* [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 
 服務提供者可能會披露使用者提供和自動收集的資訊：
 
