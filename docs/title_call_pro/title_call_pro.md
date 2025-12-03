@@ -48,6 +48,20 @@ Title Call Pro: The app calls the title of the web page
  {% include button.html text="Comentarios de los clientes(español)" link="https://docs.google.com/forms/d/e/1FAIpQLSf4Dq2GVTzHvGXb9fE9VWqwe3QZF81XLfhl2XA9zLJC8p71Jw/viewform?usp=dialog&entry.204815073=iPhone" %}
  {% include button.html text="客戶回饋(繁體中文)" link="https://docs.google.com/forms/d/e/1FAIpQLSdPA_wS95aRHqXr133pmdJI1k9h18StInEhDS-htLMLA07t8A/viewform?usp=dialog&entry.1930005825=iPhone" %}
 
+
+---
+
+# Android
+
+###  Contact　Us
+
+ {% include button.html text="Contact Us(English)" link="https://docs.google.com/forms/d/e/1FAIpQLSdW46vHaHhbB6Ewtf_Qji_frmsiC-pTYbSEMgsu4blSkR9Daw/viewform?usp=dialog&entry.1985059560=Android" %}
+ {% include button.html text="お問い合わせ(日本語)" link="https://docs.google.com/forms/d/e/1FAIpQLSegWF_5Dy8I1kUEe7r3BBtU_SgE5_9C9NkRJMuGY6wqTyu9vA/viewform?usp=dialog&entry.1480318552=Android" %}
+ {% include button.html text="Comentarios de los clientes(español)" link="https://docs.google.com/forms/d/e/1FAIpQLSf4Dq2GVTzHvGXb9fE9VWqwe3QZF81XLfhl2XA9zLJC8p71Jw/viewform?usp=dialog&entry.204815073=Android" %}
+ {% include button.html text="客戶回饋(繁體中文)" link="https://docs.google.com/forms/d/e/1FAIpQLSdPA_wS95aRHqXr133pmdJI1k9h18StInEhDS-htLMLA07t8A/viewform?usp=dialog&entry.1930005825=Android" %}
+
+
+
 <!-- 
 
 ###  Store
