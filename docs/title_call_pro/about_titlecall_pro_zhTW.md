@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "關於標題呼叫 Pro(iphone)"
+title: "關於標題呼叫 Pro"
 permalink: /about_titlecall_pro_zhTW/
 ---
 

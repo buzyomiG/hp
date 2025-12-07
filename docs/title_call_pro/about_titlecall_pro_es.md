@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Acerca de Título Call Pro (iphone)"
+title: "Acerca de Título Call Pro"
 permalink: about_titlecall_pro_es/
 ---
 

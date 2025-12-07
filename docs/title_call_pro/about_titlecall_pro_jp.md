@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "タイトルコール Pro(iphone)について"
+title: "タイトルコール Proについて"
 permalink: /about_titlecall_pro_jp/
 ---
 
