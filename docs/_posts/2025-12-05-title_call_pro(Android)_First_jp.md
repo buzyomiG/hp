@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TitleCall Pro(Android)初リリース"
+title: "裏話：TitleCall Pro(Android)初リリース"
 categories: title_call_pro(Android)
 #author:
 #- buzyomi

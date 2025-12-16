@@ -12,7 +12,7 @@ permalink: title_call_pro/
 [link-0]: /
 [link-1]: /about_titlecall_pro_en
 [link-2]: /about_titlecall_pro_jp
-[link-3]: https://apple.co/4jAiQKn
+[link-3]: https://apps.apple.com/app/id6754625852
 [link-4]: /about_titlecall_pro_es
 [link-5]: /about_titlecall_pro_zhTW
 [link-6]: https://play.google.com/store/apps/details?id=com.spaceyomi.titlecallprof
@@ -49,6 +49,15 @@ Title Call Pro: The app calls the title of the web page
  {% include button.html text="客戶回饋(繁體中文)" link="https://docs.google.com/forms/d/e/1FAIpQLSdPA_wS95aRHqXr133pmdJI1k9h18StInEhDS-htLMLA07t8A/viewform?usp=dialog&entry.1930005825=iPhone" %}
 
 
+
+
+###  Store
+### [![To Store](/assets/title_call_pro/AppIcon-pro-83.5x83.5@2x.png)][link-3]
+
+###  [Releas Note][link-0]
+[2025-12-12 Ver.1.0.0 First Release]({% post_url 2025-12-12-title_call_pro(iPhone)_First_jp %})
+
+
 ---
 
 # Android
@@ -69,14 +78,6 @@ Title Call Pro: The app calls the title of the web page
 
 [2025-12-04 Ver.1.0.0 Android 初リリース]({% post_url 2025-12-05-title_call_pro(Android)_First_jp %})
 
-<!-- 
-
-###  Store
-### [![To Store](/assets/title_call_pro/AppIcon-pro-83.5x83.5@2x.png)][link-3]
-
-###  [Releas Note][link-0]
-[2025-04-16 Ver.1.0.0 First Release]({% post_url 2025-04-16-title_call(iphone)_First_en %})
--->
 
 <!-- 
 ---

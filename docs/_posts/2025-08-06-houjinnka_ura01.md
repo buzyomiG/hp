@@ -2,7 +2,7 @@
 layout: post
 title: "裏話：法人化への道07、D-U-N-S番号の取得"
 categories: 法人化
-modified_date: 2025-09-19
+modified_date: 2025-12-15
 ---
 
 [link-3]: https://apple.co/4jAiQKn
@@ -80,6 +80,17 @@ Google Play Console、App Storeに法人として登録するためには、D-U-
 
 これで次に進みます。
 
+#### 12/15更新
+
+30営業日0円/件（無價）で登録した場合、通知書に記載される項目は以下の2点のみとなります。<br>
+・D-U-N-S Number<br>
+・社名（日本語表記）<br>
+
+Google Playでは、上記通知書でOKでしたが、App Storeの法人登録では、法人名の英語表記が求められました。
+
+詳細は、以下を参照。
+
+#### [法人名の英語表記]({% post_url 2025-12-15-yuuryou_iPhone01 %})
 
 ### 参考リンク
 
