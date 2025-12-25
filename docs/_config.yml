@@ -44,6 +44,7 @@ minima:
   nav_pages:
     - aprication.md
     - houjinnka.md
+  #  - urabanashi.md
 
   # Set to `true` to show excerpts on the homepage.
   show_excerpts: false

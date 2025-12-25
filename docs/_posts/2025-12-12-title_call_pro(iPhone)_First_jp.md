@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TitleCall Pro(iPhone)初リリース"
-categories: title_call_pro(Android)
+categories: title_call_pro(iPhone)
 #author:
 #- buzyomi
 #meta: "Springfield"

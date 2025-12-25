@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "裏話：有料アプリ契約(App Store) 02"
-categories: App Store(iPhone)
+categories: 裏話 , App Store(iPhone)
 #author:
 #- buzyomi
 #meta: "Springfield"

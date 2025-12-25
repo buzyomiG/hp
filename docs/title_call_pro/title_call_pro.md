@@ -7,6 +7,7 @@ layout: page
 excerpt: "About Title Call Pro - Mobile Aprication(iphone)"
 aside: false
 permalink: title_call_pro/
+
 ---
 
 [link-0]: /
@@ -55,6 +56,8 @@ Title Call Pro: The app calls the title of the web page
 ### [![To Store](/assets/title_call_pro/AppIcon-pro-83.5x83.5@2x.png)][link-3]
 
 ###  [Releas Note][link-0]
+[2025-12-24 Ver.1.1.0 Release]({% post_url 2025-12-24-title_call_pro(iPhone)_Ver.1.1.0_jp %})
+
 [2025-12-12 Ver.1.0.0 First Release]({% post_url 2025-12-12-title_call_pro(iPhone)_First_jp %})
 
 
