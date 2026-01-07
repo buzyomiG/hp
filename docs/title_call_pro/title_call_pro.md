@@ -77,6 +77,8 @@ Title Call Pro: The app calls the title of the web page
 
 ###  [Releas Note][link-0]
 
+[2025-12-24 Ver.1.1.0 Release]({% post_url 2025-12-29-title_call_pro(Android)_Ver.1.1.0 %})
+
 [2025-12-04 Ver.1.0.0 Android First Release]({% post_url 2025-12-05-title_call_pro(Android)_First_en %})
 
 [2025-12-04 Ver.1.0.0 Android 初リリース]({% post_url 2025-12-05-title_call_pro(Android)_First_jp %})

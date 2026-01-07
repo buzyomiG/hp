@@ -52,6 +52,8 @@ Title Call: The app calls the title of the web page
 
 ###  [Releas Note][link-0]
 
+[2025-12-30 Ver.2.2.0 Release]({% post_url 2025-12-30-title_call(iphone)_2.2.0 %})
+
 [2025-10-09 Ver.2.1.3 Release]({% post_url 2025-10-09-title_call(iphone)_2.1.3 %})
 
 [2025-10-08 Ver.2.1.2 Release]({% post_url 2025-10-08-title_call(iphone)_2.1.2 %})
@@ -84,6 +86,8 @@ Title Call: The app calls the title of the web page
 ### [![To Store](/assets/title_call/Ver2.1.1_300px.png)][link-6]
 
 ###  [Releas Note][link-0]
+
+[2025-12-30 Ver.1.2.1 Release]({% post_url 2025-12-30-title_call(Android)_1.2.1 %})
 
 [2025-09-29 Ver.1.0.0 Android titlecall初リリース]({% post_url 2025-09-29-title_call(Android)_First_jp %})
 
