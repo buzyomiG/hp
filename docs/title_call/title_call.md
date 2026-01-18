@@ -86,6 +86,7 @@ Title Call: The app calls the title of the web page
 ### [![To Store](/assets/title_call/Ver2.1.1_300px.png)][link-6]
 
 ###  [Releas Note][link-0]
+[2026-01-16 Ver.1.2.2 Release]({% post_url 2026-01-16-title_call(Android)_1.2.2 %})
 
 [2025-12-30 Ver.1.2.1 Release]({% post_url 2025-12-30-title_call(Android)_1.2.1 %})
 
