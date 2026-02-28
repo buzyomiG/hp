@@ -3,7 +3,10 @@
   <div class="wrapper">
     
     {% if site.logo %}
+    <!--
     <img src="{{ site.logo | relative_url }}" alt="ロゴ" class="site-logo">
+        -->
+    <a href="{{ '/' | relative_url }}"><img src="{{ site.logo | relative_url }}" alt="ロゴ"class="site-logo"></a>
     {% endif %}
       
       

@@ -44,7 +44,13 @@ minima:
   nav_pages:
     - aprication.md
     - houjinnka.md
-  #  - urabanashi.md
+    
+  nav_pages2:
+    - privacy.md
+    - about.md
+    - customer.md
+
+  #  - otoiawase,unneisyazyouhou,privacypolicy.md
 
   # Set to `true` to show excerpts on the homepage.
   show_excerpts: false
@@ -61,9 +67,13 @@ minima:
   #     * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
   #     * url      Full URL of social profile.
   social_links:
-    - title: buzyomi repository at GitHub
+    - title: spaceyomi repository at GitHub
       icon: github
-      url: "https://buzyomig.github.io/hp/"
-    - title: buzyomi at X (formerly Twitter)
+      url: "https://github.com/buzyomiG/hp"
+    - title: spaceyomi at X (formerly Twitter)
       icon: x-twitter bb
       url: "https://x.com/buzyomi"
+    - title: email
+      icon: envelope
+      url: "mailto:info@spaceyomi.com"
+
