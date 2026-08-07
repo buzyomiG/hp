@@ -19,7 +19,7 @@ excerpt: "About spaceyomi's Mobile Aprication(iphone)"
  
 ## [Best Angle][link-3]
 ### [![Best Angle](/assets/bestangle/Icon-App-83.5x83.5@2x.png)][link-3]
-Best Angle : The app calls the title of the web page xxxxxxxx
+Best Angle : Take photos of your face from various angles to find the "Best Angle".
  
 ## [Title Call Pro][link-2]
 ### [![title_call_pro](/assets/title_call_pro/AppIcon-pro-83.5x83.5@2x.png)][link-2]

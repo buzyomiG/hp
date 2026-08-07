@@ -26,7 +26,7 @@ permalink: bestangle/
 
 # Best Angle
 
- Best Angle: The app calls the title of the web page
+ Best Angle: Take photos of your face from various angles to find the "Best Angle".
 
 ###  About Best Angle
  [About Best Angle（English）][link-1]
