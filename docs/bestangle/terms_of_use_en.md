@@ -4,7 +4,7 @@ feature_text: |
       利用規約 in Best Angle -  Mobile Aprication
 feature_image: "https://picsum.photos/2560/600?image=873"
 layout: page
-excerpt: "Privacy Policy in Best Angle -  Mobile Aprication"
+excerpt: "Terms of Use in Best Angle -  Mobile Aprication"
 aside: false
 permalink: teams_of_use_bestangle_en/
 EffectiveDate: [August 16, 2026]
