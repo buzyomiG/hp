@@ -7,8 +7,8 @@ layout: page
 excerpt: "Terms of Use in Best Angle -  Mobile Aprication"
 aside: false
 permalink: teams_of_use_bestangle_en/
-EffectiveDate: [August 16, 2026]
-LastRevisedDate: [August 31, 2026]
+EffectiveDate: [August 16 2026]
+LastRevisedDate: [August 31 2026]
 Company: [Space Yomi]
 Apri: [Best Angle]
 
@@ -24,10 +24,10 @@ Court: [Nagoya District Court, Main Building]
 
 # {{ page.title }}
 
-制定日：{{ page.EffectiveDate }}
+Effective Date：{{ page.EffectiveDate }}
 
 <!-- 
-最終改定日：[YYYY年MM月DD日]
+Last Revision Date：{{ page.LastRevisedDate }}
 -->
 
 {{ page.Company }}(hereinafter referred to as “the Company”) hereby establishes the following Terms of Use (hereinafter referred to as “these Terms”) regarding {{ page.Apri }} (hereinafter referred to as “the App”) provided by the Company and related services (hereinafter collectively referred to as “the Services”).

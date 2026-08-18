@@ -19,8 +19,8 @@ permalink: bestangle/
 [link-6]: https://play.google.com/store/apps/details?id=com.spaceyomi.bestangle
 [link-11]: /privacy_policy_bestangle_en
 [link-12]: /privacy_policy_bestangle_jp
-[teams_of_use_en]: /teams_of_use_bestangle_en
-[teams_of_use_jp]: /teams_of_use_bestangle_jp
+[terms_of_use_en]: /teams_of_use_bestangle_en
+[terms_of_use_jp]: /teams_of_use_bestangle_jp
 
 [contact_en]: https://docs.google.com/forms/d/e/1FAIpQLSdu2QQ_txk80EZB015YWIymtZaR2lXgUUGddY4o26_24QrVTg/viewform?usp=pp_url&entry.1985059560=iPhone
  
@@ -37,9 +37,9 @@ permalink: bestangle/
 
 
 ###  Teams of Use
- [Teams of Use(English）][teams_of_use_en]
+ [Teams of Use(English）][terms_of_use_en]
  
- [利用規約(日本語)][teams_of_use_jp]
+ [利用規約(日本語)][terms_of_use_jp]
  
 
 ###  Privacy Policy
