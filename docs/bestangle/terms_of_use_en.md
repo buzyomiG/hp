@@ -12,10 +12,10 @@ LastRevisedDate: [August 31 2026]
 Company: [Space Yomi]
 Apri: [Best Angle]
 
-Address: [3-4-10, MEIEKI, NAKAMURA-KU ULTIMATE MEIEKI 1ST 2F. NAGOYA, Aichi 450-0002 Japan]
+Address: [Ultimate Meieki 1st, 2F<br>3-4-10 Meieki, Nakamura-ku<br>Nagoya, Aichi 450-0002<br>Japan]
 ContactUS: [info@spaceyomi.com]
 Website: [https://spaceyomi.com/bestangle/]
-Court: [Nagoya District Court, Main Building]
+Court: [the Nagoya District Court]
 ---
 
 
@@ -30,13 +30,13 @@ Effective Date：{{ page.EffectiveDate }}
 Last Revision Date：{{ page.LastRevisedDate }}
 -->
 
-{{ page.Company }}(hereinafter referred to as “the Company”) hereby establishes the following Terms of Use (hereinafter referred to as “these Terms”) regarding {{ page.Apri }} (hereinafter referred to as “the App”) provided by the Company and related services (hereinafter collectively referred to as “the Services”).
+{{ page.Company }} (hereinafter referred to as the “Company”) hereby establishes the following Terms of Use (hereinafter referred to as “these Terms”) regarding  {{ page.Apri }} (hereinafter referred to as the “App”) provided by the Company and related services (hereinafter collectively referred to as the “Service”).
 
 ## Article 1 (Acceptance of these Terms)
 
-1. Users shall use this Service after agreeing to these Terms.
-2. By using this Service, users are deemed to have agreed to these Terms.
-3. Minors using this Service must do so only after obtaining the consent of their legal representative or other authorized person.
+1. Users shall use the Service after agreeing to these Terms.
+2. By using the Service, users are deemed to have agreed to these Terms.
+3. Minors using the Service must do so only after obtaining the consent of their legal representative or other authorized person.
 
 ## Article 2 (The Service)
 
@@ -52,13 +52,13 @@ Last Revision Date：{{ page.LastRevisedDate }}
 
 ## Article 4 (Prohibited Acts)
 
-Users shall not engage in the following acts when using this Service.
+Users shall not engage in the following acts when using the Service.
 
 1. Acts that violate laws and regulations or public order and morals
 2. Criminal acts or acts that lead to criminal acts
 3. Acts that infringe upon the rights or interests of the Company or third parties
 4. Acts that infringe upon the reputation, credibility, privacy, etc., of the Company or third parties
-5. Acts of using this Service for improper purposes
+5. Acts of using the Service for improper purposes
 6. Acts that involve unauthorized access to, attacks on, or impose an excessive load on the Service or systems related to the Service
 7. Acts of modifying, decompiling, disassembling, reverse engineering, or other similar acts with respect to the App
 8. Acts of impersonating a third party using the Service
@@ -86,12 +86,12 @@ Users shall not engage in the following acts when using this Service.
 
 ## Article 8 (Paid Services and Subscriptions)
 
-1. Certain features or services within this Service may be provided for a fee.
-2. Fees, terms of use, service details, and other conditions for paid services will be displayed within this app or on the purchase screen of the respective app store.
-3. For paid services purchased through the App Store, Google Play, or similar platforms, fees will be charged via the payment service of the platform the user is using.
-4. Auto-renewing subscriptions will be automatically renewed in accordance with the terms displayed at the time of purchase.
-5. The terms and conditions set forth by the App Store, Google Play, or other payment platforms used by the user may apply to subscription cancellations, renewals, billing, refunds, and other related matters.
-6. Details regarding the content, fees, and terms of use for paid services will be displayed within this app or on the respective app store screens prior to purchase.
+1. Certain features or services within the Service may be provided for a fee.
+2. The fees, usage periods, service details, and other conditions for paid services will be displayed within the App or on the purchase screens of the respective app stores.
+3. For paid services purchased through the App Store, Google Play, or similar platforms, fees will be charged through the payment service of the platform used by the user.
+4. Auto-renewing subscriptions will automatically renew unless the user completes the cancellation procedure, in accordance with the terms displayed at or before the time of purchase.
+5. The terms and conditions established by the App Store, Google Play, or other payment platforms used by the user shall apply to the cancellation, renewal, billing, refunds, and other matters relating to subscriptions.
+6. Details regarding the content, fees, and terms of use for paid services will be displayed within the App or on the respective app store screens prior to purchase.
 
 ## Article 9 (Purchase Restoration)
 
@@ -102,7 +102,7 @@ Users shall not engage in the following acts when using this Service.
 
 If the Company determines that a User falls under any of the following categories, the Company may suspend or restrict the User’s use of all or part of the Service without prior notice.
 
-1. In the event of a violation of these Terms of Service
+1. In the event of a violation of these Terms of Use
 2. In the event that unauthorized use is confirmed
 3. In any other case where the Company deems it necessary for the operation of the Service
 
@@ -118,15 +118,15 @@ If the Company determines that a User falls under any of the following categorie
 
 ## Article 12 (Disclaimer)
 
-1. The Company does not guarantee that the Service will be suitable for the User’s specific purposes or that it will possess the expected functionality, accuracy, completeness, continuity, or security.
-2. The Company shall not be liable for any inability to use the Service due to communication lines, devices, operating systems, third-party services, or other causes, except in cases of the Company’s willful misconduct or gross negligence.
-3. The Company shall not be liable for any third-party services, websites, content, or other materials accessed by Users through the Service.
-4. Any disputes arising between a User and a third party shall be resolved between the User and such third party.
+1. The Company does not guarantee that the Service will be suitable for the user's specific purposes or that it will possess the expected functionality, accuracy, completeness, continuity, or security.
+2. The Company shall not be liable for any inability to use the Service due to communication lines, devices, operating systems, third-party services, or other causes, except in cases of the Company's willful misconduct or gross negligence.
+3. The Company does not guarantee the content, accuracy, security, continuity, or any other aspect of third-party services, websites, content, or other materials accessed by users through the Service and shall not be liable for such services or materials except where such liability arises from causes attributable to the Company.
+4. Any disputes arising between a user and a third party shall be resolved between the user and such third party.
 
 ## Article 13 (Compensation for Damages)
 
-1. If a user causes damage to the Company by violating these Terms of Service, the user shall compensate the Company for the damages incurred.
-2. The Company’s liability shall be governed by this Article and other provisions of these Terms of Service, to the extent permitted by applicable laws and regulations.
+If a user causes damage to the Company by violating these Terms, the user shall compensate the Company for the damages incurred.
+
 
 ## Article 14 (Handling of Personal Information, etc.)
 
@@ -135,7 +135,7 @@ The handling of users’ personal information and other data shall be governed b
 ## Article 15 (Amendments to These Terms)
 
 1. The Company may amend these Terms as necessary.
-2. In the event of an amendment to these Terms, the Company will notify Users of the details of the amendment and the effective date via the App, the Company’s website, or other appropriate means.
+2. In the event of an amendment to these Terms, the Company will notify users of the details of the amendment and the effective date of the amended Terms through the App, the Company's website, or other appropriate means.
 3. Unless otherwise specified by the Company, the amended Terms shall take effect on the effective date as notified.
 
 ## Article 16 (Notices)
@@ -150,7 +150,9 @@ Users may not assign or transfer any rights or obligations under these Terms to 
 ## Article 18 (Governing Law and Jurisdiction)
 
 1. These Terms shall be governed by and construed in accordance with the laws of Japan.
-2. In the event of any dispute between the Company and the User regarding the Service or these Terms, {{ page.Court }} shall have exclusive agreed jurisdiction as the court of first instance.
+
+2. In the event of any dispute between the Company and the User regarding the Service or these Terms, {{ page.Court }} shall have exclusive jurisdiction as the court of first instance.
+
 
 ## Article 19 (Inquiries)
 
