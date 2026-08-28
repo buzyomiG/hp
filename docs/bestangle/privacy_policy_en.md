@@ -13,6 +13,42 @@ permalink: privacy_policy_bestangle_en/
 
 This privacy policy applies to the Best Angle app (hereby referred to as "Application") for mobile devices that was created by (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
+**Face Photos and Face-Related Data**
+
+Best Angle uses the device camera to preview and capture photos that may include a user's face.
+
+The App uses Google ML Kit Face Detection locally on the user's device to process information about the orientation of a detected face in order to provide the App's core functionality, including helping users determine, compare, and record their preferred face angle when taking photos.
+
+The App may store the following information locally on the user's device:
+
+- photos that may include a user's face;
+- face angle values for the X, Y, and Z axes; and
+- the date and time the photo was taken.
+
+Best Angle does not use face data to identify or verify a person's identity and does not perform face recognition.
+
+Face photos, face angle values, and the date and time the photo was taken are processed and stored locally on the user's device. We do not upload, transmit, synchronize, or otherwise send this information to our servers
+
+We do not sell, rent, or otherwise provide face photos, face angle values, or other face-related data to advertisers, advertising platforms, analytics providers, data brokers, information resellers, or other third parties.
+
+The App does not use face photos or face angle data for advertising, marketing, authentication, identity verification, user profiling, or data mining.
+
+Face photos, face angle values, and the date and time the photo was taken remain stored on the user's device until deleted by the user.
+
+Users may delete relevant data through the App and, where applicable, may delete photos saved to the device's photo library through the device's photo management functions.
+
+The developer does not retain face photos, face angle values, or related photo information on its servers.
+
+Users may choose to share a photo using the device's share function. A photo is shared only when the user actively selects a destination and initiates the sharing action.
+
+Only the photo file selected by the user is shared through the device's share function. Face angle values for the X, Y, and Z axes and the date and time the photo was taken are not included in the sharing process and are not shared.
+
+The App does not automatically share face photos or face-related data with third parties.
+
+After the user shares a photo with a third-party app or service, the handling of the shared photo is subject to the privacy policy and practices of the selected third party.
+
+
+
 **Information Collection and Use**
 
 The Application collects information when you download and use it. This information may include information such as
