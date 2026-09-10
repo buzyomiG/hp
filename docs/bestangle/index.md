@@ -13,7 +13,8 @@ permalink: bestangle/
 [link-0]: /
 [link-1]: /about_bestangle_en
 [link-2]: /about_bestangle_jp
-[link-3]: # <!-- https://apps.apple.com/app/idx6754625852 -->
+[link-3x]: # <!-- https://apps.apple.com/app/idx6781913714 -->
+[link-3]: https://apps.apple.com/app/id6781913714
 [link-4]: /about_bestangle_es
 [link-5]: /about_bestangle_zhTW
 [link-6]: https://play.google.com/store/apps/details?id=com.spaceyomi.bestangle
@@ -64,15 +65,11 @@ permalink: bestangle/
 
 ###  Store
 ### [![To Store](/assets/bestangle/Icon-App-83.5x83.5@2x.png)][link-3]
-#### Comming Soon
 
 
 ###  [Releas Note][link-0]
-<!--
-[2025-12-24 Ver.1.1.0 Release]({% post_url 2025-12-24-title_call_pro(iPhone)_Ver.1.1.0_jp %})
+[2026-09-09 bestangle(iPhone) First Release]({% post_url 2026-09-09-bestangle(iPhone)_First_jp %})
 
-[2025-12-12 Ver.1.0.0 First Release]({% post_url 2025-12-12-title_call_pro(iPhone)_First_jp %})
--->
 
 ---
 
