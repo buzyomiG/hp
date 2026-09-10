@@ -32,8 +32,3 @@ categories: BestAngle(iPhone)
 
 [rejectsの嵐(App Store)]({% post_url 2026-09-09-rejects_iPhone %})
 
-### 参考リンク
-
-* * *
-
-[Google Cloud Text-to-Speech](https://docs.cloud.google.com/text-to-speech/docs?hl=ja "Google Cloud Text-to-Speech")
