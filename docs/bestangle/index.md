@@ -68,8 +68,9 @@ permalink: bestangle/
 
 
 ###  [Releas Note][link-0]
-[2026-09-09 bestangle(iPhone) First Release]({% post_url 2026-09-09-bestangle(iPhone)_First_jp %})
+[2026-09-25 bestangle(iPhone) Ver.1.0.1 Release]({% post_url 2026-09-25-bestangle(iPhone)1.0.1_jp %})
 
+[2026-09-09 bestangle(iPhone) First Release]({% post_url 2026-09-09-bestangle(iPhone)_First_jp %})
 
 ---
 
