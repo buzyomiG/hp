@@ -36,3 +36,10 @@ Hemos publicado un anuncio sobre la campaña en la sección de Noticias.
 
 已在新聞欄位新增「已讀／未讀」功能。
 已在新聞中刊載有關活動的通知。
+
+* * *
+
+### 参考リンク
+
+[裏話：キャンペーンとリリースの連携]({% post_url 2026-10-02-canpain_iPhone %})
+

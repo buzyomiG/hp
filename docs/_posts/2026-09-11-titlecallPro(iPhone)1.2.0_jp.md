@@ -40,3 +40,11 @@ Se ha cambiado el «MinimumOSVersion» a iOS 15.0.
 已新增新聞。
 ・已推出新應用程式「Best Angle」。
 將「MinimumOSVersion」變更為 iOS 15.0
+
+
+* * *
+
+### 参考リンク
+
+[裏話：キャンペーンとリリースの連携]({% post_url 2026-10-02-canpain_iPhone %})
+

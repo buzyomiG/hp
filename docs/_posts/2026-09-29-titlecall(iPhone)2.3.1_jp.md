@@ -34,3 +34,10 @@ Hemos añadido una pestaña Noticias a la función Ayuda.
 (繁體中文)
 
 我們已在「幇助」功能中新增「新聞」標籤頁。
+
+* * *
+
+### 参考リンク
+
+[裏話：キャンペーンとリリースの連携]({% post_url 2026-10-02-canpain_iPhone %})
+
