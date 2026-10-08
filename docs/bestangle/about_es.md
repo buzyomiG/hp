@@ -1,52 +1,72 @@
 ---
 layout: page
-title: "Acerca de Título Call Pro"
+
+title: Acerca de El mejor ángulo
 permalink: about_bestangle_es/
+Company: [Space Yomi]
+Apri: [El mejor ángulo]
+
 ---
 
 
-## Acerca de Título Call Pro 
+## Acerca de {{ page.Apri }} 
 
-Esta es una aplicación de navegador para navegar por Internet.
 
-Pulse el botón de lectura en voz alta para que se lea en voz alta el título de la página web.
+<img src="/assets/bestangle/Top_i_es.png" width="30%">
 
-【Características principales】
+Haz fotos de tu cara desde distintos ángulos para encontrar el «{{ page.Apri }}».
 
-・Lee en voz alta los títulos de las páginas web.
+Una vez que hayas encontrado el «{{ page.Apri }}», haz una foto desde ese ángulo.
 
-・Navega por sitios web.
+Puedes guardar la foto en tu dispositivo o enviarla a otras aplicaciones, por correo electrónico o a una impresora mediante el menú para compartir.
 
-・Marca sitios como favoritos.
+Hazte una foto desde el «{{ page.Apri }}» y crea recuerdos imborrables.
 
-・Ajusta el brillo de la pantalla.
+¡Consigue una atractiva foto de perfil para redes sociales (LinkedIn, Facebook, X, Instagram, etc.) desde el «{{ page.Apri }}»!!
 
-・Ajusta la configuración de texto a voz.
+<br>
+### 【Características principales】
 
-【Diferencias con la versión gratuita】
+・Hazte selfies desde distintos ángulos
 
-・No se muestran anuncios.
+・Indicaciones de voz al hacer fotos
 
-・Admite 60 idiomas para texto a voz, con un habla más fluida en comparación con la versión gratuita.
+・Visualiza las fotos en la pantalla «Galería»
 
-【Idiomas admitidos】
+・Haz fotos desde el mejor ángulo
 
-af-ZA, am-ET, ar-XA, bg-BG, bn-IN, ca-ES, cmn-CN, cmn-TW, cs-CZ, da-DK, de-DE, el-GR, en-AU, en-GB, en-IN, en-US, es-ES, es-US, et-EE, eu-ES, fi-FI, fil-PH, fr-CA, fr-FR, gl-ES, gu-IN, he-IL, hi-IN, hu-HU, id-ID, is-IS, it-IT, ja-JP, kn-IN, ko-KR, lt-LT, lv-LV, ml-IN, mr-IN, ms-MY, nb-NO, nl-BE, nl-NL, pa-IN, pl-PL, pt-BR, pt-PT, ro-RO, ru-RU, sk-SK, sr-RS, sv-SE, ta-IN, te-IN, th-TH, tr-TR, uk-UA, ur-IN, vi-VN, yue-HK
+・Visualiza las fotos en la pantalla «Galería de lo mejor»
 
-【Tipos de voz compatibles con la conversión de texto a voz】
+・Guarda fotos de la pantalla «Galería de lo mejor» en tu dispositivo (hasta 6 fotos en la versión gratuita)
 
-Standard, Wavenet, Chirp3-HD, Chirp-HD, Casual, News, Neural2
+・Envía fotos a otras aplicaciones, por correo electrónico o a una impresora a través del menú para compartir de la «Galería de las mejores fotos»
 
+<br>
+##### También puedes adquirir un plan Premium
+
+### [Plan Premium]
+
+  ・No se muestran anuncios.
+
+  ・En la «Galería de ángulos» y en la «Galería de las mejores fotos», puedes ampliar una foto manteniendo pulsada la imagen.
+
+  ・Al hacer fotos, puedes cambiar entre la cámara frontal y la trasera, ajustar el contraste y acercar o alejar la imagen.
+
+  ・El número máximo de fotos que puedes guardar en tu dispositivo en «Best Gallery» aumenta de 6 a 12.
+
+  ・Tendrás acceso a futuras funciones premium.
+
+  ・Puedes apoyar nuestro desarrollo continuo.
+
+<br>
 【Notas importantes】
 
-・El título que se lee en voz alta es el establecido para esa página web.
+  ・Tu suscripción se renueva automáticamente.
 
-　El audio reproducido puede diferir de lo que usted espera.
+  ・Es fácil cambiar entre los planes mensual y anual.
 
-・No todos los tipos de voz están disponibles para todos los idiomas.
+  ・Si ya no necesitas el servicio, puedes cancelar tu suscripción en cualquier momento a través de la App Store o Google Play.
 
-・Hay un límite en el número de caracteres que se pueden leer en voz alta.
+  ・Puedes restaurar tu compra utilizando el mismo ID de Apple o la misma cuenta de Google.
 
-　Si supera el número de caracteres previsto en un mes, la función del navegador seguirá siendo utilizable, pero la función de conversión de texto a voz se desactivará.
-　
-　La restricción se levantará el día 1 del mes siguiente.
+  ・El pago se procesa a través de Apple o Google Play.

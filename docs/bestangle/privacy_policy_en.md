@@ -7,15 +7,17 @@ layout: page
 excerpt: "Privacy Policy in Best Angle -  Mobile Aprication"
 aside: false
 permalink: privacy_policy_bestangle_en/
+Company: [Space Yomi]
+Apri: [Best Angle]
 ---
 
 **Privacy Policy**
 
-This privacy policy applies to the Best Angle app (hereby referred to as "Application") for mobile devices that was created by (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This privacy policy applies to the {{ page.Apri }} app (hereby referred to as "Application") for mobile devices that was created by (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 **Face Photos and Face-Related Data**
 
-Best Angle uses the device camera to preview and capture photos that may include a user's face.
+{{ page.Apri }} uses the device camera to preview and capture photos that may include a user's face.
 
 The App uses Google ML Kit Face Detection locally on the user's device to process information about the orientation of a detected face in order to provide the App's core functionality, including helping users determine, compare, and record their preferred face angle when taking photos.
 
@@ -25,7 +27,7 @@ The App may store the following information locally on the user's device:
 - face angle values for the X, Y, and Z axes; and
 - the date and time the photo was taken.
 
-Best Angle does not use face data to identify or verify a person's identity and does not perform face recognition.
+{{ page.Apri }} does not use face data to identify or verify a person's identity and does not perform face recognition.
 
 Face photos, face angle values, and the date and time the photo was taken are processed and stored locally on the user's device. We do not upload, transmit, synchronize, or otherwise send this information to our servers
 

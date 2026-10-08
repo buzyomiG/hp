@@ -2,10 +2,12 @@
 layout: page
 title: "ベストアングルについて"
 permalink: /about_bestangle_jp/
+Company: [Space Yomi]
+Apri: [ベストアングル]
 ---
 [link-3]: # <!-- https://apps.apple.com/app/idx6754625852 -->
 
-## ベストアングル について
+## {{ page.Apri }} について
 
 
 <img src="/assets/bestangle/Top_i_jp.png" width="30%">
@@ -19,9 +21,9 @@ a href="https://apps.apple.com/app/idx6754625852"><img src="/assets/bestangle/To
 
 写真は端末内に保存したり、共有メニューで他のアプリ、メール、プリンタに送ることができます
 
-「ベストアングル」で顔写真を撮り、思い出に残しましょう
+「{{ page.Apri }}」で顔写真を撮り、思い出に残しましょう
 
-魅力的なSNSアイコン（Linkedln,Facebook,X,Instagram等）を「ベストアングル」で！！
+魅力的なSNSアイコン（Linkedln,Facebook,X,Instagram等）を「{{ page.Apri }}」で！！
 
 <br> 
 ### 【主な機能】

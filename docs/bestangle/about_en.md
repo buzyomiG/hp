@@ -2,26 +2,24 @@
 layout: page
 title: "About Best Angle"
 permalink: about_bestangle_en/
+Company: [Space Yomi]
+Apri: [Best Angle]
 ---
 
 
-## About Best Angle aprication
+## About {{ page.Apri }} 
 
 <img src="/assets/bestangle/Top_i_en.png" width="30%">
-<!-- 
-a href="https://apps.apple.com/app/idx6754625852"><img src="/assets/bestangle/Top_i_jp.png" width="30%" alt="ベストアングル"></a>
--->
 
+Take photos of your face from various angles to find the "{{ page.Apri }}".
 
-Take photos of your face from various angles to find the "Best Angle".
-
-Once you’ve found the "Best Angle", take a photo from that angle.
+Once you’ve found the "{{ page.Apri }}", take a photo from that angle.
 
 You can save the photo to your device or send it to other apps, email, or a printer using the share menu.
 
-Take a photo of your face from the "Best Angle" and create lasting memories.
+Take a photo of your face from the "{{ page.Apri }}" and create lasting memories.
 
-Get an attractive social media profile picture (LinkedIn, Facebook, X, Instagram, etc.) from the "Best Angle"!!
+Get an attractive social media profile picture (LinkedIn, Facebook, X, Instagram, etc.) from the "{{ page.Apri }}"!!
 
 <br> 
 ### 【Main Features】

@@ -1,17 +1,19 @@
 ---
 title: Política de Privacidady
 feature_text: |
-      Privacy Policy in Título Call Pro -  Mobile Aprication
+      Privacy Policy in Best Angle -  Mobile Aprication
 feature_image: "https://picsum.photos/2560/600?image=873"
 layout: page
 excerpt: "Privacy Policy in Best Angle -  Mobile Aprication"
 aside: false
 permalink: privacy_policy_bestangle_es/
+Company: [Space Yomi]
+Apri: [El mejor ángulo]
 ---
 
 **Política de Privacidady**
 
-Esta política de privacidad se aplica a la aplicación Título Call Pro (en adelante, la "Aplicación") para dispositivos móviles, creada por (en adelante, el "Proveedor de Servicios") como un servicio gratuito. Este servicio está destinado para su uso "TAL CUAL".
+Esta política de privacidad se aplica a la aplicación {{ page.Apri }}  (en adelante, la "Aplicación") para dispositivos móviles, creada por (en adelante, el "Proveedor de Servicios") como un servicio gratuito. Este servicio está destinado para su uso "TAL CUAL".
 
 **Recopilación y Uso de Información**
 

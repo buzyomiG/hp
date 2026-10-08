@@ -7,11 +7,13 @@ layout: page
 excerpt: "Privacy Policy in Title Call Pro -  Mobile Aprication(iphone)"
 aside: false
 permalink: privacy_policy_bestangle_zhTW/
+Company: [Space Yomi]
+Apri: [最佳角度]
 ---
 
 **隱私權政策**
 
-本隱私權政策適用於由（以下簡稱「服務提供者」）為行動裝置開發的 標題呼叫 Pro 應用程式（以下簡稱「應用程式」），作為免費服務提供。本服務旨在「按原樣」使用。
+本隱私權政策適用於由（以下簡稱「服務提供者」）為行動裝置開發的 {{ page.Apri }} 應用程式（以下簡稱「應用程式」），作為免費服務提供。本服務旨在「按原樣」使用。
 
 **資訊收集與使用**
 

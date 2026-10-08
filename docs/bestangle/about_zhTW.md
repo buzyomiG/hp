@@ -1,51 +1,74 @@
 ---
 layout: page
-title: "關於標題呼叫 Pro"
+title: "關於「最佳角度」"
 permalink: /about_BestAngle_zhTW/
+Company: [Space Yomi]
+Apri: [最佳角度]
 ---
 
-## 關於標題呼叫 Pro
+## 關於「{{ page.Apri }}」
 
-這是一款用於瀏覽網頁的瀏覽器應用程式。
 
-按下朗讀按鈕即可將網頁標題朗讀出來。
+<img src="/assets/bestangle/Top_i_zhtw.png" width="30%">
 
-【主要功能】
 
-・朗讀網頁標題
+從各種角度拍攝臉部照片，找出臉部的「{{ page.Apri }}」
 
-・瀏覽網站
+找到「{{ page.Apri }}」後，便從該角度拍攝照片
 
-・新增書籤
+照片可儲存至裝置內，或透過分享選單傳送至其他應用程式、電子郵件或印表機
 
-・調整螢幕亮度
+以「{{ page.Apri }}」拍攝臉部照片，留存美好回憶吧
 
-・設定文字轉語音參數
+用「{{ page.Apri }}」打造迷人的社群媒體頭像（LinkedIn、Facebook、X、Instagram 等）！！
 
-【與免費版差異】
+<br>
 
-・無廣告干擾
+### 【主要功能】
 
-・支援60種語言文字轉語音，語音流暢度優於免費版
+・從各種角度拍攝臉部照片
 
-【支援語言】
+・拍照時的語音指引
 
-af-ZA, am-ET, ar-XA, bg-BG, bn-IN, ca-ES, cmn-CN, cmn-TW, cs-CZ, da-DK, de-DE, el-GR, en-AU, en-GB, en-IN, en-US, es-ES, es-US, et-EE, eu-ES, fi-FI, fil-PH, fr-CA, fr-FR, gl-ES, gu-IN, he-IL, hi-IN, hu-HU, id-ID, is-IS, it-IT, ja-JP, kn-IN, ko-KR, lt-LT, lv-LV, ml-IN, mr-IN, ms-MY, nb-NO, nl-BE, nl-NL, pa-IN, pl-PL, pt-BR, pt-PT, ro-RO, ru-RU, sk-SK, sr-RS, sv-SE, ta-IN, te-IN, th-TH, tr-TR, uk-UA, ur-IN, vi-VN, yue-HK
+・在「角度相簿」中查看拍攝的照片
 
-【文字轉語音支援的語音類型】
+・使用「最佳相簿」功能拍攝照片
 
-Standard, Wavenet, Chirp3-HD, Chirp-HD, Casual, News, Neural2
+・在「最佳相簿」中查看拍攝的照片
 
-【重要注意事項】
+・將照片儲存至裝置內（免費版最多 6 張）
 
-・朗讀標題為該網頁設定之標題。
+・透過「最佳相簿」的分享選單，將照片傳送至其他應用程式、電子郵件或印表機
 
-　實際發音可能與預期有所差異。
 
-・並非所有語音類型皆適用於所有語言。
+<br>
+##### 亦可購買高級方案
 
-・朗讀字元數設有上限。
+### 【高級方案】
 
-　若單月超出預期字元數，瀏覽器功能仍可使用，但文字轉語音功能將停用。
+  ・不顯示廣告。
 
-　限制將於次月1日解除。
+  ・在「角度相簿」及「最佳相簿」中，長按照片即可放大檢視。
+
+  ・拍攝照片時，可進行相機的「前置／後置鏡頭切換」、「對比度調整」及「縮放」操作。
+
+  ・在「最佳相簿」中，可儲存至裝置的照片上限將從 6 張增加至 12 張。
+
+  ・可使用未來新增的進階功能。
+
+  ・可支持本應用程式的持續開發。
+
+<br>
+【注意事項】
+
+  ・訂閱服務將自動續訂。
+
+  ・月費方案與年費方案的切換非常簡單。
+
+  ・若不再需要，可隨時透過 App Store 或 Google Play 取消訂閱。
+
+  ・只要使用相同的 Apple ID 或 Google 帳戶，即可還原購買紀錄。
+
+  ・付款將透過 Apple 或 Google Play 進行。
+
+

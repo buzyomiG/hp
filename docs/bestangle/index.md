@@ -7,47 +7,69 @@ layout: page
 excerpt: "Best Angle - Mobile Aprication"
 aside: false
 permalink: bestangle/
+Company: [Space Yomi]
+Apri: [Best Angle]
+Apri_jp: [ベストアングル]
+Apri_es: [El mejor ángulo]
+Apri_zhtw: [最佳角度]
 
 ---
 
 [link-0]: /
-[link-1]: /about_bestangle_en
-[link-2]: /about_bestangle_jp
+[about_en]: /about_bestangle_en
+[about_jp]: /about_bestangle_jp
 [link-3x]: # <!-- https://apps.apple.com/app/idx6781913714 -->
 [link-3]: https://apps.apple.com/app/id6781913714
-[link-4]: /about_bestangle_es
-[link-5]: /about_bestangle_zhTW
+[about_es]: /about_bestangle_es
+[about_zhtw]: /about_bestangle_zhTW
 [link-6]: https://play.google.com/store/apps/details?id=com.spaceyomi.bestangle
-[link-11]: /privacy_policy_bestangle_en
-[link-12]: /privacy_policy_bestangle_jp
+[privacy_policy_en]: /privacy_policy_bestangle_en
+[privacy_policy_jp]: /privacy_policy_bestangle_jp
+[privacy_policy_es]: /privacy_policy_bestangle_es
+[privacy_policy_zhtw]: /privacy_policy_bestangle_zhtw
 [terms_of_use_en]: /teams_of_use_bestangle_en
 [terms_of_use_jp]: /teams_of_use_bestangle_jp
-
+[terms_of_use_es]: /teams_of_use_bestangle_es
+[terms_of_use_zhtw]: /teams_of_use_bestangle_zhtw
 [contact_en]: https://docs.google.com/forms/d/e/1FAIpQLSdu2QQ_txk80EZB015YWIymtZaR2lXgUUGddY4o26_24QrVTg/viewform?usp=pp_url&entry.1985059560=iPhone
  
 [contact_jp]: https://docs.google.com/forms/d/e/1FAIpQLSePfoXx8EikrW9Ioyt01XgJmnOPgkLkTaULZcw51-DG_JRXmg/viewform?usp=dialog&entry.1480318552=iPhone
 
-# Best Angle
-
- Best Angle: Take photos of your face from various angles to find the "Best Angle".
-
-###  About Best Angle
- [About Best Angle（English）][link-1]
+[contact_es]: https://docs.google.com/forms/d/e/1FAIpQLSdu2QQ_txk80EZB015YWIymtZaR2lXgUUGddY4o26_24QrVTg/viewform?usp=pp_url&entry.1985059560=iPhone
  
- [ベストアングル について（日本語）][link-2]
+[contact_zhtw]: https://docs.google.com/forms/d/e/1FAIpQLSePfoXx8EikrW9Ioyt01XgJmnOPgkLkTaULZcw51-DG_JRXmg/viewform?usp=dialog&entry.1480318552=iPhone
 
+# {{ page.Apri }}
 
+ {{ page.Apri }}: Take photos of your face from various angles to find the "Best Angle".
+
+###  About {{ page.Apri }}
+ [About {{ page.Apri }}（English）][about_en]
+ 
+ [{{ page.Apri_jp }} について（日本語）][about_jp]
+ 
+ [Acerca de {{ page.Apri_es }}（Español）][about_es]
+ 
+ [關於{{ page.Apri_zhtw }}（中文（繁體字））][about_zhtw]
+ 
 ###  Teams of Use
  [Teams of Use(English）][terms_of_use_en]
  
  [利用規約(日本語)][terms_of_use_jp]
  
-
-###  Privacy Policy
- [Privacy Policy(English）][link-11]
+ [Equipos de uso(Español）][terms_of_use_es]
  
- [プライバシーポリシー(日本語)][link-12]
+ [使用條款(中文（繁體字）)][terms_of_use_zhtw]
+ 
+###  Privacy Policy
+ [Privacy Policy(English）][privacy_policy_en]
+ 
+ [プライバシーポリシー(日本語)][privacy_policy_jp]
 
+ [Política de privacidad(Español）][privacy_policy_es]
+ 
+ [隱私權政策(中文（繁體字）)][privacy_policy_zhtw]
+ 
 ---
 
 # iPhone
@@ -58,10 +80,10 @@ permalink: bestangle/
 
 [お問い合わせ(日本語)][contact_jp]
 
-<!-- 
- {% include button.html text="Contact Us(English)" link="https://docs.google.com/forms/d/e/1FAIpQLSdu2QQ_txk80EZB015YWIymtZaR2lXgUUGddY4o26_24QrVTg/viewform?usp=pp_url&entry.1985059560=iPhone" %}
- {% include button.html text="お問い合わせ(日本語)" link="https://docs.google.com/forms/d/e/1FAIpQLSePfoXx8EikrW9Ioyt01XgJmnOPgkLkTaULZcw51-DG_JRXmg/viewform?usp=dialog&entry.1480318552=iPhone" %}
--->
+[Contáctanos(Español)][contact_es]
+
+[聯絡我們(中文（繁體字）)][contact_zhtw]
+
 
 ###  Store
 ### [![To Store](/assets/bestangle/Icon-App-83.5x83.5@2x.png)][link-3]
