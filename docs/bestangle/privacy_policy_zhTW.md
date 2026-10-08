@@ -6,7 +6,7 @@ feature_image: "https://picsum.photos/2560/600?image=873"
 layout: page
 excerpt: "Privacy Policy in Title Call Pro -  Mobile Aprication(iphone)"
 aside: false
-permalink: privacy_policy_bestangle_zhTW/
+permalink: privacy_policy_bestangle_zhtw/
 Company: [Space Yomi]
 Apri: [最佳角度]
 ---

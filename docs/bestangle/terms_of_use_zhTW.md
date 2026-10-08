@@ -6,7 +6,7 @@ feature_image: "https://picsum.photos/2560/600?image=873"
 layout: page
 excerpt: "Privacy Policy in Best Angle -  Mobile Aprication"
 aside: false
-permalink: teams_of_use_bestangle_zhTW/
+permalink: teams_of_use_bestangle_zhtw/
 EffectiveDate: [2026年08月16日]
 LastRevisedDate: [2026年08月31日]
 Company: [Space Yomi]

@@ -35,9 +35,9 @@ Apri_zhtw: [最佳角度]
  
 [contact_jp]: https://docs.google.com/forms/d/e/1FAIpQLSePfoXx8EikrW9Ioyt01XgJmnOPgkLkTaULZcw51-DG_JRXmg/viewform?usp=dialog&entry.1480318552=iPhone
 
-[contact_es]: https://docs.google.com/forms/d/e/1FAIpQLSdu2QQ_txk80EZB015YWIymtZaR2lXgUUGddY4o26_24QrVTg/viewform?usp=pp_url&entry.1985059560=iPhone
+[contact_es]: https://docs.google.com/forms/d/e/1FAIpQLSfzzuM_tfHCdMit7594BzEwPni7btzqOdJTsHXDwLxNSZwELQ/viewform?usp=pp_url&entry.204815073=iPhone
  
-[contact_zhtw]: https://docs.google.com/forms/d/e/1FAIpQLSePfoXx8EikrW9Ioyt01XgJmnOPgkLkTaULZcw51-DG_JRXmg/viewform?usp=dialog&entry.1480318552=iPhone
+[contact_zhtw]: https://docs.google.com/forms/d/e/1FAIpQLSedF1hNQ8jCkJo95mbSd9cPA3F-sISOrrTn0LaTT_p9oAy0RQ/viewform?usp=pp_url&entry.1930005825=iPhone
 
 # {{ page.Apri }}
 
