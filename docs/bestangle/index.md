@@ -21,7 +21,7 @@ Apri_zhtw: [最佳角度]
 [link-3x]: # <!-- https://apps.apple.com/app/idx6781913714 -->
 [link-3]: https://apps.apple.com/app/id6781913714
 [about_es]: /about_bestangle_es
-[about_zhtw]: /about_bestangle_zhTW
+[about_zhtw]: /about_bestangle_zhtw
 [link-6]: https://play.google.com/store/apps/details?id=com.spaceyomi.bestangle
 [privacy_policy_en]: /privacy_policy_bestangle_en
 [privacy_policy_jp]: /privacy_policy_bestangle_jp

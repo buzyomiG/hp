@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "關於「最佳角度」"
-permalink: /about_BestAngle_zhTW/
+permalink: /about_BestAngle_zhtw/
 Company: [Space Yomi]
 Apri: [最佳角度]
 ---
