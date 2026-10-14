@@ -1,5 +1,10 @@
 
 {% assign target_category = "裏話" %}
+
+法人化の裏話については、別ページにまとめています。
+
+こちらのページはそれ以外の裏話をまとめています。
+
 <h2>Category: {{ target_category }}</h2>
 
 <ul>
